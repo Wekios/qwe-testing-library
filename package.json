@@ -1,0 +1,15 @@
+{
+  "name": "qwe",
+  "version": "1.0.0",
+  "description": "A repo for my custom JavaScript Testing framework",
+  "type": "module",
+  "scripts": {
+    "test": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "Veljko Blagojevic",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
