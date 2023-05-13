@@ -1,14 +1,14 @@
 # QWE
 
-qwe is a custom test runner library for Node.js.
+Qwe is a custom test runner framework for Node.js.
 
 ## Installation
 
-run npm install to install all required dependencies
+Run npm install to install all required dependencies
 
 `npm install`
 
-and to run the actual tests, use:
+nd to run the actual tests, use:
 
 `npm run test`
 
