@@ -8,7 +8,7 @@ Run npm install to install all required dependencies
 
 `npm install`
 
-nd to run the actual tests, use:
+And to run the actual tests, use:
 
 `npm run test`
 
